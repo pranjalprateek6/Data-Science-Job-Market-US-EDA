@@ -9,7 +9,7 @@ In this project, we have explored and visualized data related to Data Scientist 
 ## Contents
 
 - `data-scientist-job-market-on-us.ipynb`: Jupyter Notebook containing the EDA process, including data loading, data cleaning, analysis, and visualization.
-- `aadata.csv`: The dataset used for the analysis.
+- `alldata.csv`: The dataset used for the analysis (Download from link below)
 - `README.md`: This file, providing an overview of the project.
 
 ## Usage
