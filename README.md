@@ -14,7 +14,7 @@ In this project, we have explored and visualized data related to Data Scientist 
 
 ## Usage
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine: [https://github.com/pranjalprateek6/Data-Science-Job-Market-US-EDA]
 
 
 2. Navigate to the project directory:
